@@ -83,7 +83,7 @@ button{
     margin-top: 20px;
 }
 #inicio{
-    background-image: url(/capitulo1/img/inicio.png);
+    background-image: url(/img/inicio.png);
     min-height: 280px;
     background-repeat: no-repeat;
     background-size: cover;
